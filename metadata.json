@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS 2.0",
+  "description": "Advanced Neural AI Assistant with voice interaction, dynamic themes, and real-time streaming intelligence.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
